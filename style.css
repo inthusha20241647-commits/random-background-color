@@ -1,70 +1,10 @@
-<<<<<<< HEAD
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 body {
-  background: linear-gradient(135deg, #ff0f7b, #f89b29);
-
-  height: 100vh;
-  place-items: center;
-
-  display: grid;
-}
-.container {
-  width: 600px;
-  height: 400px;
-  background-color: whitesmoke;
-  top: 100px;
-  left: 400px;
-  text-align: center;
-  padding: 30px;
-  font-family: "poppins", sans-serif;
-  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
-  border-radius: 5px;
-}
-.container h2 {
-  font-size: 28px;
-  margin-bottom: 30px;
-}
-.container input {
-  font-size: 28px;
-  margin-bottom: 30px;
-  padding: 20px;
-  border: 2px solid darkblue;
-  width: 100px;
-  display: inline-block;
-}
-.container h3 {
-  line-height: 1.2em;
-  margin-bottom: 30px;
-  font-weight: 100;
-}
-.container button {
-  font-size: 25px;
-  margin-bottom: 30px;
-  font-weight: bold;
-  width: 150px;
-  border: 1px solid #f31363;
-  background-color: #f31363;
-  border-radius: 5px;
-  padding: 5px;
-  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
-  cursor: pointer;
-}
-.guess {
-  display: flex;
-  justify-content: center;
-}
-=======
-*{
-    margin:0;
-    padding: 0;
-    box-sizing: border-box;
-}
-body{
-    background-color: lightsalmon;
+  background: linear-gradient(135deg, #ff0f7b, #f89b29);  
 }
 .btn{
     background-color: palevioletred;
@@ -83,4 +23,4 @@ body{
 }
 
     
->>>>>>> da8dc5551a41a73a992ba350e505637ff254eccb
+
